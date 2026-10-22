@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖨️ QPrint — Sistem Antrian Printer
+# QPrint — Sistem Antrian Printer
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-21.0.2-1E6BA3?style=for-the-badge&logo=java&logoColor=white)
@@ -14,23 +14,23 @@
 
 ---
 
-## ✨ Fitur Unggulan
+## Fitur Unggulan
 
 | Fitur | Deskripsi |
 |-------|-----------|
-| 🔐 **Login System** | Autentikasi sebelum masuk ke sistem |
-| 📄 **Tambah Dokumen** | Support file PDF, DOCX, dan XLSX |
-| ⚡ **Priority Queue** | Antrian berdasarkan prioritas: `Urgent > Tinggi > Normal > Rendah` |
-| 🖨️ **Auto Print** | Setelah satu job selesai, otomatis lanjut ke berikutnya |
-| 📊 **Real-time Stats** | Monitoring jumlah dokumen, estimasi waktu, & status printer |
-| ❌ **Cancel Fleksibel** | Bisa cancel satu job, semua antrian, atau seluruh proses |
-| 🗂️ **Riwayat Cetak** | Histori lengkap semua job yang sudah diproses |
-| 📑 **Laporan PDF** | Generate laporan otomatis dengan JasperReports |
-| 🎵 **Background Audio** | Musik latar saat aplikasi berjalan |
+| **Login System** | Autentikasi sebelum masuk ke sistem |
+| **Tambah Dokumen** | Support file PDF, DOCX, dan XLSX |
+| **Priority Queue** | Antrian berdasarkan prioritas: `Urgent > Tinggi > Normal > Rendah` |
+| **Auto Print** | Setelah satu job selesai, otomatis lanjut ke berikutnya |
+| **Real-time Stats** | Monitoring jumlah dokumen, estimasi waktu, & status printer |
+| **Cancel Fleksibel** | Bisa cancel satu job, semua antrian, atau seluruh proses |
+| **Riwayat Cetak** | Histori lengkap semua job yang sudah diproses |
+| **Laporan PDF** | Generate laporan otomatis dengan JasperReports |
+| **Background Audio** | Musik latar saat aplikasi berjalan |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Java 21
 - **UI Framework:** JavaFX 21.0.2 + FXML
@@ -41,21 +41,21 @@
 
 ---
 
-## 🔄 Alur Aplikasi
+## Alur Aplikasi
 
 ```
-🟢 Loading Screen
+Loading Screen
       ↓
-🔐 Login Screen
+Login Screen
       ↓
-📋 Main Program (Manajemen Antrian)
+Main Program (Manajemen Antrian)
       ↓
-👋 Thank You Screen
+Thank You Screen
 ```
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ### Prerequisites
 - Java JDK 21+
@@ -100,7 +100,7 @@ mvn javafx:run
 
 ---
 
-## 📁 Struktur Project
+## Struktur Project
 
 ```
 QPrintProject/
